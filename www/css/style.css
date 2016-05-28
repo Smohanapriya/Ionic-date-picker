@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+.txt_field::-webkit-input-placeholder {
+    color: #fff;
+}
+.txt_field{
+   background-color:#E5E4E2;
+   width:50%;
+   color:#428dff;
+   border-radius: 5px;
+   border: 1px solid #c7c7c7;
+   font-size: 16px;
+   font-style: normal;
+   margin-top: 5px;
+   text-transform: capitalize;
+}
